@@ -2,5 +2,4 @@
 Grupo 5 - Sala 3
 
 ##Descrição do projeto:
-
-Projeto desenvolvido para a disciplina de Projeto Integrador I - Engenharia de Software da PUC-Campinas.
+Projeto desenvolvido para a disciplina de Projeto Integrador II - Engenharia de Software da PUC-Campinas.
